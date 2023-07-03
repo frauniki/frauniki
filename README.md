@@ -1,6 +1,6 @@
 # frauniki
 
-I’m @frauniki, an Infrastructure　and SRE Engineer working in Japan.
+I’m @frauniki, an Infrastructure and SRE Engineer working in Japan.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=frauniki&theme=onedark&rank=-C,-?)](https://github.com/ryo-ma/github-profile-trophy)
 
