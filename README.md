@@ -23,7 +23,7 @@ role: Platform SRE
 company: freee K.K.
 location: Tokyo, Japan
 working_on: reliability and scalability with Kubernetes and Istio service mesh
-also: [backend, frontend, native app development]
+also: [backend, frontend, native app development]  # freelance / contract work
 interests: [kubernetes, service-mesh, reliability, developer-platforms, observability]
 ```
 
@@ -34,6 +34,11 @@ interests: [kubernetes, service-mesh, reliability, developer-platforms, observab
 **Platform SRE** · freee K.K.<br>
 `2022 — Present` · Tokyo, Japan
 > Ensuring reliability and scalability of the platform with Kubernetes and Istio service mesh.
+
+**Software Engineer** · Freelance / Contract<br>
+`2025 — Present` · Remote
+> Backend, frontend and native app development for client products,
+> along with the infrastructure and SRE work around them.
 
 **Infrastructure Engineer** · LINE Corporation<br>
 `2019 — 2022` · Tokyo, Japan
