@@ -1,40 +1,64 @@
-<div align="center">
+# Kodai Matsumoto — frauniki
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=200&section=header&text=frauniki&fontSize=52&fontColor=c9d1d9&fontAlignY=36&desc=Infrastructure%20%C2%B7%20SRE%20%C2%B7%20Platform%20Engineering&descSize=16&descAlignY=55&animation=fadeIn" alt="frauniki" />
+Platform SRE at freee K.K., based in Tokyo, Japan.
 
-<a href="https://github.com/frauniki">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&height=45&lines=Infrastructure+%26+SRE+Engineer+in+Japan;Kubernetes+%C2%B7+Go+%C2%B7+Platform+Reliability;Building+things+that+stay+up" alt="Infrastructure & SRE Engineer in Japan" />
-</a>
-
-<p>
-  <img src="https://img.shields.io/badge/Location-Japan-0D1117?style=for-the-badge&labelColor=161B22&color=1F6FEB" alt="Japan" />
-  <img src="https://img.shields.io/badge/Focus-SRE%20%2F%20Infrastructure-0D1117?style=for-the-badge&labelColor=161B22&color=1F6FEB" alt="SRE / Infrastructure" />
-  <a href="https://github.com/frauniki?tab=followers"><img src="https://img.shields.io/github/followers/frauniki?style=for-the-badge&labelColor=161B22&color=1F6FEB" alt="Followers" /></a>
-</p>
-
-</div>
+I work on reliability and scalability with Kubernetes and Istio service mesh.
+Alongside infrastructure, I have software engineering experience across backend,
+frontend and native app development.
 
 ---
 
-## About
+## Experience
 
-```yaml
-name: frauniki
-role: Infrastructure / SRE Engineer
-location: Japan
-working_on: keeping distributed systems boring
-interests: [kubernetes, reliability, developer platforms, observability]
-```
+**Platform SRE** · freee K.K.<br>
+`2022 — Present` · Tokyo, Japan
+> Ensuring reliability and scalability of the platform with Kubernetes and Istio service mesh.
+
+**Infrastructure Engineer** · LINE Corporation<br>
+`2019 — 2022` · Tokyo, Japan
+> IT Service Center, System Department. Automated LINE's bare-metal server provisioning
+> pipeline with Argo Workflows, from rack-in to handover as usable compute.
+
+---
+
+## Writing
+
+- [Argo Workflows を使って LINE の Baremetal セットアップを自動化した話](https://engineering.linecorp.com/ja/blog/automating-baremetal-setup) — LINE Engineering Blog, 2022-08-15
+
+---
+
+## Open Source
+
+Merged contributions to:
+
+<p>
+  <a href="https://github.com/istio/istio/pulls?q=is%3Apr+author%3Afrauniki"><img src="https://img.shields.io/badge/istio%2Fistio-0D1117?style=flat-square&labelColor=161B22&color=1F6FEB" alt="istio/istio" /></a>
+  <a href="https://github.com/istio/tools/pulls?q=is%3Apr+author%3Afrauniki"><img src="https://img.shields.io/badge/istio%2Ftools-0D1117?style=flat-square&labelColor=161B22&color=1F6FEB" alt="istio/tools" /></a>
+  <a href="https://github.com/kiali/kiali/pulls?q=is%3Apr+author%3Afrauniki"><img src="https://img.shields.io/badge/kiali%2Fkiali-0D1117?style=flat-square&labelColor=161B22&color=1F6FEB" alt="kiali/kiali" /></a>
+  <a href="https://github.com/kedacore/keda/pulls?q=is%3Apr+author%3Afrauniki"><img src="https://img.shields.io/badge/kedacore%2Fkeda-0D1117?style=flat-square&labelColor=161B22&color=1F6FEB" alt="kedacore/keda" /></a>
+  <a href="https://github.com/kgateway-dev/kgateway/pulls?q=is%3Apr+author%3Afrauniki"><img src="https://img.shields.io/badge/kgateway--dev%2Fkgateway-0D1117?style=flat-square&labelColor=161B22&color=1F6FEB" alt="kgateway-dev/kgateway" /></a>
+  <a href="https://github.com/cert-manager/istio-csr/pulls?q=is%3Apr+author%3Afrauniki"><img src="https://img.shields.io/badge/cert--manager%2Fistio--csr-0D1117?style=flat-square&labelColor=161B22&color=1F6FEB" alt="cert-manager/istio-csr" /></a>
+  <a href="https://github.com/argoproj/argo-helm/pulls?q=is%3Apr+author%3Afrauniki"><img src="https://img.shields.io/badge/argoproj%2Fargo--helm-0D1117?style=flat-square&labelColor=161B22&color=1F6FEB" alt="argoproj/argo-helm" /></a>
+  <a href="https://github.com/project-zot/zot/pulls?q=is%3Apr+author%3Afrauniki"><img src="https://img.shields.io/badge/project--zot%2Fzot-0D1117?style=flat-square&labelColor=161B22&color=1F6FEB" alt="project-zot/zot" /></a>
+  <a href="https://github.com/di-sukharev/opencommit/pulls?q=is%3Apr+author%3Afrauniki"><img src="https://img.shields.io/badge/opencommit-0D1117?style=flat-square&labelColor=161B22&color=1F6FEB" alt="di-sukharev/opencommit" /></a>
+  <a href="https://github.com/FeLvi-zzz/tentez/pulls?q=is%3Apr+author%3Afrauniki"><img src="https://img.shields.io/badge/tentez-0D1117?style=flat-square&labelColor=161B22&color=1F6FEB" alt="FeLvi-zzz/tentez" /></a>
+</p>
 
 ---
 
 ## Tech Stack
 
-<div align="center">
+**Infrastructure & SRE**
 
-<img src="https://skillicons.dev/icons?i=go,kotlin,swift,ts,js,py,react,vue,nodejs,graphql,kubernetes,vscode&theme=dark&perline=12" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=kubernetes,go,bash,linux&theme=dark&perline=4" alt="Kubernetes, Go, Bash, Linux" />
 
-</div>
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=kotlin,py,nodejs,graphql,postgres&theme=dark&perline=5" alt="Kotlin, Python, Node.js, GraphQL, PostgreSQL" />
+
+**Frontend & Native**
+
+<img src="https://skillicons.dev/icons?i=ts,js,react,vue,swift&theme=dark&perline=5" alt="TypeScript, JavaScript, React, Vue, Swift" />
 
 ---
 
