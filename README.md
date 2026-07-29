@@ -1,10 +1,31 @@
-# Kodai Matsumoto — frauniki
+<div align="center">
 
-Platform SRE at freee K.K., based in Tokyo, Japan.
+# frauniki
 
-I work on reliability and scalability with Kubernetes and Istio service mesh.
-Alongside infrastructure, I have software engineering experience across backend,
-frontend and native app development.
+<a href="https://github.com/frauniki">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&height=45&lines=Infrastructure+%26+SRE+Engineer+in+Japan;Kubernetes+%C2%B7+Go+%C2%B7+Platform+Reliability;Building+things+that+stay+up" alt="Infrastructure & SRE Engineer in Japan" />
+</a>
+
+<p>
+  <img src="https://img.shields.io/badge/Location-Tokyo%2C%20Japan-0D1117?style=for-the-badge&labelColor=161B22&color=1F6FEB" alt="Tokyo, Japan" />
+  <img src="https://img.shields.io/badge/Focus-Platform%20SRE-0D1117?style=for-the-badge&labelColor=161B22&color=1F6FEB" alt="Platform SRE" />
+</p>
+
+</div>
+
+---
+
+## About
+
+```yaml
+name: Kodai Matsumoto (frauniki)
+role: Platform SRE
+company: freee K.K.
+location: Tokyo, Japan
+working_on: reliability and scalability with Kubernetes and Istio service mesh
+also: [backend, frontend, native app development]
+interests: [kubernetes, service-mesh, reliability, developer-platforms, observability]
+```
 
 ---
 
