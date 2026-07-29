@@ -41,7 +41,7 @@ Remote
 > Backend, frontend and native app development for client products,
 > along with the infrastructure and SRE work around them.
 
-**Infrastructure Engineer** · LINE Corporation<br>
+**Infrastructure Engineer, Software Engineer** · LINE Corporation<br>
 `2019 — 2022` · Tokyo, Japan
 > IT Service Center, System Department. Automated LINE's bare-metal server provisioning
 > pipeline with Argo Workflows, from rack-in to handover as usable compute.
