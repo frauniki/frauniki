@@ -19,7 +19,7 @@
 
 ```yaml
 name: Kodai Matsumoto (frauniki)
-role: Platform SRE
+role: Platform SRE / Tech Lead
 company: freee K.K.
 location: Tokyo, Japan
 working_on: reliability and scalability with Kubernetes and Istio service mesh
@@ -31,9 +31,10 @@ interests: [kubernetes, service-mesh, reliability, developer-platforms, observab
 
 ## Experience
 
-**Platform SRE** · freee K.K.<br>
+**Platform SRE / Tech Lead** · freee K.K.<br>
 `2022 — Present` · Tokyo, Japan
-> Ensuring reliability and scalability of the platform with Kubernetes and Istio service mesh.
+> Ensuring reliability and scalability with Kubernetes and Istio service mesh,
+> leading the team's technical direction.
 
 **Software Engineer** · Freelance / Contract<br>
 `2025 — Present` · Remote
