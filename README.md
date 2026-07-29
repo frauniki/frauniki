@@ -75,17 +75,24 @@ Merged contributions to:
 
 ## Tech Stack
 
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=go,kotlin,swift,ts,js,py,bash&theme=dark&perline=7" alt="Go, Kotlin, Swift, TypeScript, JavaScript, Python, Bash" />
+
 **Infrastructure & SRE**
 
-<img src="https://skillicons.dev/icons?i=kubernetes,go,bash,linux&theme=dark&perline=4" alt="Kubernetes, Go, Bash, Linux" />
+<img src="https://skillicons.dev/icons?i=kubernetes,terraform,docker,grafana,prometheus,aws,gcp,azure,linux&theme=dark&perline=9" alt="Kubernetes, Terraform, Docker, Grafana, Prometheus, AWS, GCP, Azure, Linux" />
 
-**Backend**
+<p>
+  <img src="https://img.shields.io/badge/Istio-0D1117?style=flat-square&logo=istio&logoColor=white&labelColor=161B22&color=1F6FEB" alt="Istio" />
+  <img src="https://img.shields.io/badge/Argo%20CD-0D1117?style=flat-square&logo=argo&logoColor=white&labelColor=161B22&color=1F6FEB" alt="Argo CD" />
+  <img src="https://img.shields.io/badge/Helm-0D1117?style=flat-square&logo=helm&logoColor=white&labelColor=161B22&color=1F6FEB" alt="Helm" />
+  <img src="https://img.shields.io/badge/Datadog-0D1117?style=flat-square&logo=datadog&logoColor=white&labelColor=161B22&color=1F6FEB" alt="Datadog" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=kotlin,py,nodejs,graphql,postgres&theme=dark&perline=5" alt="Kotlin, Python, Node.js, GraphQL, PostgreSQL" />
+**Frameworks & Data**
 
-**Frontend & Native**
-
-<img src="https://skillicons.dev/icons?i=ts,js,react,vue,swift&theme=dark&perline=5" alt="TypeScript, JavaScript, React, Vue, Swift" />
+<img src="https://skillicons.dev/icons?i=react,vue,nodejs,graphql,postgres&theme=dark&perline=5" alt="React, Vue, Node.js, GraphQL, PostgreSQL" />
 
 ---
 
@@ -94,7 +101,7 @@ Merged contributions to:
 <div align="center">
 
 <img height="180" src="https://frauniki-github-readme-stats.vercel.app/api?username=frauniki&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=1F6FEB&border_color=30363D&line_height=28" alt="GitHub stats" />
-<img height="180" src="https://streak-stats.demolab.com/?user=frauniki&hide_border=true&background=0D1117&border=30363D&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" alt="GitHub streak" />
+<img height="180" src="https://streak-stats.demolab.com/?user=frauniki&hide_border=true&disable_animations=true&background=0D1117&border=30363D&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" alt="GitHub streak" />
 
 <img height="180" src="https://frauniki-github-readme-stats.vercel.app/api/top-langs/?username=frauniki&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=30363D&hide=makefile,smarty,lua,dockerfile,plpgsql" alt="Top languages" />
 <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=frauniki&theme=github_dark" alt="Most commit language" />
