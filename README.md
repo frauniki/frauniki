@@ -37,7 +37,7 @@ interests: [kubernetes, service-mesh, reliability, developer-platforms, observab
 > leading the team's technical direction.
 
 **Software Engineer** · Freelance / Contract<br>
-`2025 — Present` · Remote
+Remote
 > Backend, frontend and native app development for client products,
 > along with the infrastructure and SRE work around them.
 
