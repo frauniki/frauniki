@@ -36,15 +36,15 @@ interests: [kubernetes, service-mesh, reliability, developer-platforms, observab
 > Ensuring reliability and scalability with Kubernetes and Istio service mesh,
 > leading the team's technical direction.
 
-**Software Engineer** · Freelance / Contract<br>
-Remote
-> Backend, frontend and native app development for client products,
-> along with the infrastructure and SRE work around them.
-
 **Infrastructure Engineer, Software Engineer** · LINE Corporation<br>
 `2019 — 2022` · Tokyo, Japan
 > IT Service Center, System Department. Automated LINE's bare-metal server provisioning
 > pipeline with Argo Workflows, from rack-in to handover as usable compute.
+
+**Software Engineer** · Freelance / Contract<br>
+Remote
+> Backend, frontend and native app development for client products,
+> along with the infrastructure and SRE work around them.
 
 ---
 
